@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WordCounter</string>
+    <string name="Title">WordCount</string>
+    <string name="add_words_here">Add words here:</string>
+    <string name="textInstruction">Add text to count:</string>
+    <string name="total_count_button">click to count</string>
+    <string name="resultBox" />
 </resources>
